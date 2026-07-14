@@ -1,0 +1,18 @@
+vllm_omni/diffusion/models/wan2_2/pipeline_lingbot_world.py
+  h_3fb3e5b0b28fa8 264,564-565,697-698,768,779
+vllm_omni/diffusion/models/wan2_2/lingbot_world_transformer.py
+  h_3fb3e5b0b28fa8 3,48-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "bf72012154b78d69db88da33920d1ccd7038f19d",
+  "prompts": {},
+  "humans": {
+    "h_3fb3e5b0b28fa8": {
+      "author": "zhangbin.327 <zhangbin.327@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
